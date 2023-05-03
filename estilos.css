@@ -1,0 +1,33 @@
+/* Estilo para el encabezado */
+header {
+    background: linear-gradient(to bottom, #546c8a, #00c6ff);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  h1 {
+    font-size: 48px;
+  }
+  
+  /* Estilo para la sección "Sobre Mí" */
+  section:nth-child(1) {
+    background: linear-gradient(to bottom, #5b8c99, #0072ff);
+    color: white;
+    padding: 40px 20px;
+  }
+  
+  /* Estilo para la sección "Mis Habilidades" */
+  section:nth-child(2) {
+    background: linear-gradient(to bottom, #8fa8bb, #ffffff);
+    color: #0072ff;
+    padding: 40px 20px;
+  }
+  
+  /* Estilo para la sección "Contacto" */
+  section:nth-child(3) {
+    background: linear-gradient(to bottom, #ffffff, #b8e1ff);
+    color: #0072ff;
+    padding: 40px 20px;
+  }
+  
